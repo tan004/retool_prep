@@ -15,7 +15,8 @@ The skillset you'll bring:
 ● Foundational knowledge of Javascript and SQL   
 ● Knowledge of common data types and structures   
 ● Ability to teach and explain technical topics   
-● Related experience working directly with customers in a technical role ● Excitement to support and influence a growing product with customer needs   
+● Related experience working directly with customers in a technical role   
+● Excitement to support and influence a growing product with customer needs     
 ● Drive to explore new technical topics and talk about your findings   
 ● Bonus points for familiarity with any of our database or API integrations  
   </p>
