@@ -11,10 +11,11 @@ Your primary responsibility will be to make sure our users get the help they nee
 <p>You’ll work with support engineers and software engineers to diagnose, troubleshoot, and solve customer problems. You will also partner with product to consult on new features and areas for improvement related to the issues you encounter. Support is a small team today, but rapidly expanding to match our customer growth. 
 You’ll be joining a broader team of Retools who are passionate about serving our customers, enjoy collaborating to build an incredibly innovative product, and partake in some occasional-but-well-intentioned sarcasm. If this sounds like you, we’d love to hear from you! 
 The skillset you'll bring: 
-● Foundational knowledge of Javascript and SQL 
-● Knowledge of common data types and structures 
-● Ability to teach and explain technical topics 
-● Related experience working directly with customers in a technical role ● Excitement to support and influence a growing product with customer needs 
-● Drive to explore new technical topics and talk about your findings 
-● Bonus points for familiarity with any of our database or API integrations
+  
+● Foundational knowledge of Javascript and SQL   
+● Knowledge of common data types and structures   
+● Ability to teach and explain technical topics   
+● Related experience working directly with customers in a technical role ● Excitement to support and influence a growing product with customer needs   
+● Drive to explore new technical topics and talk about your findings   
+● Bonus points for familiarity with any of our database or API integrations  
   </p>
