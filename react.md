@@ -34,8 +34,18 @@
 
     export const PupContext = createContext();
 
+    <PupContext.Provider value={/* some value */}>
+        <App />
+    </PupContext.Provider>
+
+    <PupProvider>
+        <App />
+    </PupProvider>
+
 ```
 
 ### useCallback
+
 ### useRef
+
 ### useReducer

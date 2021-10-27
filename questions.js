@@ -20,7 +20,9 @@ Using that array, how can I get all of the customers on the users
 table who placed those specific orders?"✱
 */
 let ids = [1,2,3,4,5]
-
+let orders = [{id:1, userid:1, category: 2},{id:13, userid:2, category: 2},{id:22, userid:3, category: 2}]
 // Select username from usertable
 // join orderstable
 // On userId == orderstable.userId
+
+let matched = orders.filter(item => ids.includes(item.userid))
